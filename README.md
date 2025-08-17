@@ -22,6 +22,7 @@ Etapa 2:
 Elastic Cloud Computing (EC2)
 O Amazon EC2 fornece capacidade de computação redimensionável na nuvem e permite que você pague somente pela capacidade que você realmente usa o que é ideal para sites que usam vários servidores Web em pelo menos dois datacenters e aqueles que precisam escalar usando balanceamento de carga ou bancos de dados externos.
 Sites empresariais incluem sites de marketing e mídia muito conhecidos, bem como sites de redes sociais, viagens, entre outros sites com uso elevado de aplicativos. Por exemplo, a Lamborghini, a Coursera e a Nordstrom usam a AWS para hospedar seus sites. Os sites empresariais precisam escalar dinamicamente os recursos e ser altamente disponíveis para apoiar os sites mais exigentes e com o maior tráfego.
+
 Etapa 3:
 
 Amazon DynamoDB
